@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh76200&label=Profile%20views&color=0e75b6&style=flat" alt="harsh76200" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh76200" alt="harsh76200" /></a> </p>
-
 - 🔭 I’m currently working on **Chatbot Song Recommender System**
 
 - 🌱 I’m currently learning **DSA and Prompt Engineering**
