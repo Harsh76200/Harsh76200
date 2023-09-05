@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh76200&label=Profile%20views&color=0e75b6&style=flat" alt="harsh76200" /> </p>
 
-- 🔭 I’m currently working on **Chatbot Song Recommender System**
+- 🔭 I’m currently working on **ReactJS Projects**
 
 - 🌱 I’m currently learning **DSA and Prompt Engineering**
 
