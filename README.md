@@ -29,6 +29,22 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh76200&show_icons=true&locale=en&layout=compact" alt="harsh76200" /></p>
 
+## <div align="center">🏆 Achievements</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avinashpatkar34&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies">
+</div>
+
+<br>
+
+## <div align="center">📈 Activity Graph</div>
+
+<div align="center">
+  <img alt="Avinash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Avinashpatkar34&theme=react-dark&hide_border=true" />
+</div>
+
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh76200&show_icons=true&locale=en" alt="harsh76200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh76200&" alt="harsh76200" /></p>
