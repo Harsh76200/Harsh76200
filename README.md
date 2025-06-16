@@ -40,7 +40,7 @@
 ## <div align="center">📈 Activity Graph</div>
 
 <div align="center">
-  <img alt="Avinash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Avinashpatkar34&theme=react-dark&hide_border=true" />
+  <img alt="Harsh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh76200&theme=react-dark&hide_border=true" />
 </div>
 
 <br>
